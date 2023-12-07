@@ -16,3 +16,8 @@ background: gold;
 width: 300px;
 padding: 10px;
 }
+
+h2 {
+  color: black;
+  text-align: center;
+}
