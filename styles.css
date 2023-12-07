@@ -3,14 +3,14 @@ background: gold;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: [red];
+color: red;
 text-align: center;
 }
 .assign {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: black;
+background: gold;
 }
 .assign img {
 width: 200px;
